@@ -8,6 +8,6 @@ $(function(){
 
     //about video pop up;
     $('.venobox').venobox({
-        closeColor: '#e23e38',
+        closeBackground: '#e23e38',
     });
 });
